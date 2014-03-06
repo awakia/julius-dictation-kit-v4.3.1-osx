@@ -1,0 +1,24 @@
+# jconf file for tv grammar (light setting)  for dictation-kit-v3.0
+#
+# this jconf file assume that this archive is expanded
+# at the top dictionary of Julius dictation kit directory.
+#
+#  dictation-kit-v3.0/
+#	00readme.txt
+#	bin/
+#	...
+#	tv/
+#	    julian_tv_light.jconf       (!this file should be here!)
+#
+
+# DFA file
+-dfa tv.dfa
+# dict file
+-v tv.dict
+
+# acoustic HMM
+-h ../model/phone_m/jnas-mono-16mix-gid.binhmm
+
+# other common setting
+-separatescore
+-input mic
