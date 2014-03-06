@@ -1,18 +1,71 @@
 % BARY
 バリィ  b a r i
+
 % TV
 テレビ  t e r e b i
+
 % SOUND
 音  o t o
+
 % TSUKETE
 つけて  t u k e t e
+
 % KESHITE
 けして  k e s i t e
+
 % AGETE
 あげて  a g e t e
+
 % SAGETE
 さげて  s a g e t e
+
+% NOISE
+<sp>  sp
+
 % NS_B
 <s>  silB
+
 %NS_E
 </s>  silE
+
+%PARTICLE
+a a
+i i
+u u
+e e
+o o
+a: a:
+i: i:
+U: u:
+e: e:
+o: o:
+N N
+w w
+y y
+j j
+my my
+ky ky
+by by
+gy gy
+ny ny
+hy hy
+ry ry
+py py
+p p
+t t
+k k
+ts ts
+ch ch
+b b
+d d
+dy dy
+g g
+z z
+m m
+n n
+s s
+sh sh
+h h
+f f
+r r
+q q
