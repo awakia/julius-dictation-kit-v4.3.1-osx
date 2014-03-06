@@ -8,11 +8,11 @@
 
 
 オリジナルは以下のURLから取得してください。
-http://julius.sourceforge.jp/index.php?q=dictation-kit.html
+* http://julius.sourceforge.jp/index.php?q=dictation-kit.html
 
 作成当時の最新の`dictation-kit-v4.3.1-osx-0130.tgz`を元にしています。
 
 ## 動作環境
 
-Mac OSX
-[PortAudio](http://www.portaudio.com/download.html)がインストール済み
+* Mac OSX
+* [PortAudio](http://www.portaudio.com/download.html)がインストール済み
